@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack / 技术栈
 
 | Category | Skills & Tools |
 | :--- | :--- |
@@ -18,13 +18,11 @@
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Key Projects / 方向
 
-- 🕹️ **Godot-Harvard-Structure**: 3D Logic Circuit Sandbox `Godot` `Logic Sim`
-- 🧶 **Algo-VolumetricCurve**: Real-time Mesh Generation `GLSL` `Geometry`
-- 📊 **Bilibili-Monitor**: Large-scale Data Archival `Python` `Crawler`
-- 📡 **SerialCom-Platform**: Hardware Visualization `OpenGL` `Arduino` `IoT`
-- 📐 **College-Design**: Blender & UE5 Digital Workshop `TA` `Workflow`
+- Algo
+- 3DModel Design
+- GodotGame
 
 ---
 
