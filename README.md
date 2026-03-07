@@ -28,14 +28,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=UkawaJun&show_icons=true&theme=nord&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkawaJun&layout=compact&theme=nord&hide=html,css" />
-</p>
-
----
-
 ### 📫 Contact
 📧 **Email:** [wangzhijinye@gmail.com](mailto:wangzhijinye@gmail.com) | 📺 **Bilibili:** [UkawaJun](https://space.bilibili.com/321615514)
